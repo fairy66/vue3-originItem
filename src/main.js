@@ -1,3 +1,4 @@
+import 'amfe-flexible';   //用于rem的适配
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'

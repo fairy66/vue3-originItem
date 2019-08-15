@@ -1,5 +1,9 @@
 # vue3-ydtest
 
+## 项目详细说明地址
+```
+https://blog.csdn.net/baidu_41604826/article/details/99638303
+```
 ## Project setup
 ```
 npm install
